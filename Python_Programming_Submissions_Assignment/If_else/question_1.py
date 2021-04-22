@@ -1,3 +1,5 @@
+#Write a Python program to get next day of a given date using if-elif-else
+
 year = int(input("Input a year: "))
 if (year % 400 == 0):
    leap_year = True
