@@ -14,5 +14,5 @@ elif(inp=="lmk"):
     print("let me know")
 elif(inp=="smh"):
     print("shaking my head")
-else:
+else: 
     print("Plz enter lol or rofl or lmk or smh")
